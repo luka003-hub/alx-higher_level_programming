@@ -1,0 +1,9 @@
+^M^M
+^@^@^@^@´nÏe<9c>^A^@^@ã^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^D^@^@^@@^@^@^@sB^@^@^@d^@Z^@d^Ad^Bl^Am^BZ^Bm^CZ^Cm^DZ^Dm^EZ^E^A^@d^Ad^Cl^Fm^GZ^G^A^@e^G<83>^@Z^HG^@d^Dd^E<84>^@d^Ee^H<83>^CZ    d^FS^@)^Gz^TDefines a class Cityé^@^@^@^@)^DÚ^FColumnÚ^GIntegerÚ^FStringÚ
+ForeignKey)^AÚ^Pdeclarative_basec^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^D^@^@^@@^@^@^@s>^@^@^@e^@Z^Ad^@Z^Bd^AZ^Cd^BZ^De^Ee^Fd^Cd^D<8d>^BZ^Ge^Ee^Hd^E<83>^Ad^Fd^G<8d>^BZ       e^Ee^Fe
+d^H<83>^A<83>^BZ^Kd     S^@)
+Ú^DCityz^PModule of a cityZ^FcitiesT)^AÚ^Kprimary_keyé<80>^@^@^@F)^AÚ^Hnullablez        states.idN)^LÚ^H__name__Ú
+__module__Ú^L__qualname__Ú^G__doc__Ú^M__tablename__r^B^@^@^@r^C^@^@^@Ú^Bidr^D^@^@^@Ú^Dnamer^E^@^@^@Ú^Hstate_id©^@r^S^@^@^@r^S^@^@^@úQ/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.pyr^G^@^@^@^K^@^@^@s
+^@^@^@^H^A^D^A^D^A^L^A^P^Ar^G^@^@^@N)
+r^N^@^@^@Ú
+sqlalchemyr^B^@^@^@r^C^@^@^@r^D^@^@^@r^E^@^@^@Ú^Zsqlalchemy.ext.declarativer^F^@^@^@Ú^DBaser^G^@^@^@r^S^@^@^@r^S^@^@^@r^S^@^@^@r^T^@^@^@Ú^H<module>^B^@^@^@s^H^@^@^@^D^C^X^A^L^B^F^C
